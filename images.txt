@@ -1,6 +1,9 @@
-docker.io/redislabs/redis:7.4.6-66
+#docker.io/redislabs/redis:7.4.6-66
+#ngnix
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+docker.io/portainer/portainer-ce:2.21.3
